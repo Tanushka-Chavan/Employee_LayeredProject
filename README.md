@@ -12,7 +12,7 @@ This project helps you **practice ORM, layered architecture, Criteria API filter
 ✅ Insert Employee records dynamically  
 ✅ Fetch employee data using Criteria API with filters and projections  
 ✅ Update and delete employee records conditionally  
-✅ Clean layered architecture for clarity  
+✅ clean layered architecture with a menu-driven option  
 ✅ Uses **Hibernate Criteria API** for flexible dynamic querying
 
 ---
